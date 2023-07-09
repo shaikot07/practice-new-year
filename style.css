@@ -19,6 +19,20 @@ body{
       
      
 }
+/* shaerd style  */
+.tik{
+      color: green;
+      margin-right: 5px;
+      font-size: 16px;
+}
+.sub-heading{
+      color:  #151414;
+      text-align: center;
+      font-family: Work Sans;
+      font-size: 40px;
+      font-weight: 700;
+     
+}
 
 /* banner style css  */
 .banner{
@@ -49,7 +63,7 @@ body{
 }
 .banner-right h1{
       color: #FFF;
-      font-size: 50px;
+      font-size: 45px;
       font-weight: 700;
       line-height: 55px;
 }
@@ -60,3 +74,80 @@ body{
       padding-left: 172px;
       margin-top: 10px;
 }
+main{
+      width: 1043px;
+      margin: 30px auto;
+      
+}
+/* failures section style css  */
+.failures{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+.profile-pic{
+      width: 50%;
+      
+}
+.profile-pic .pic{
+      max-width: 100%;
+     
+}
+.failures-info{
+      width: 50%;
+      padding: 0 50px;
+}
+.failures-info h4{
+      color: #151414;
+      font-family: Work Sans;
+      font-size: 30px;
+      font-weight: 700;
+}
+.failures-info p{
+      color: #444343;
+      font-family: Work Sans;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      margin: 20px 0;
+}
+.failures-info ul{
+      list-style: none;
+}
+.failures-info ul li{
+      color: #444343;
+      font-family: Work Sans;
+      font-size: 16px;
+      font-weight: 400;
+      margin-bottom: 5px;
+      
+}
+/* plan-section style css  */
+.plan-section{
+      text-align: center;
+      margin: 70px 0;
+}
+.plan-container{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 114px;
+}
+.plan{}
+.plan-title{
+      color: #151414;
+      text-align: center;
+      font-family: Work Sans;
+      font-size: 18px;
+      font-weight: 700;
+     
+}
+.plan-description{
+      color: #737272;
+      text-align: center;
+      font-family: Work Sans;
+      font-size: 18px;
+      padding: 15px 0;
+      font-weight: 500;
+
+}
+ad 
