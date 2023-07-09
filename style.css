@@ -1,3 +1,7 @@
+*{
+      margin: 0;
+      padding: 0;
+}
 body{
       /* font-family: 'Open Sans', sans-serif; */
       font-family: 'Work Sans', sans-serif;
@@ -10,7 +14,7 @@ body{
       padding: 10px 15px;
       border: 0;
       font-weight: bold;
-      margin-top: 5px;
+      margin-top: 36px;
       
       
      
@@ -41,6 +45,7 @@ body{
       text-align: right;
       /* padding-left: 180px;
       padding-right: 44px; */
+      margin-right: 54px;
 }
 .banner-right h1{
       color: #FFF;
@@ -53,5 +58,5 @@ body{
       font-size: 14px;
       font-weight: 400;
       padding-left: 172px;
-      margin-top: 0;
+      margin-top: 10px;
 }
