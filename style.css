@@ -150,4 +150,24 @@ main{
       font-weight: 500;
 
 }
-ad 
+/* ad- banner style css  */
+.ad-banner{
+      background-image: url("images/gradient1.png"), url("images/watch.png");
+      background-position: center;
+      background-size: cover;
+      height: 153px;
+      padding: 61px;
+      margin: 100px 0;
+}
+.ad-banner-info{
+      color: #FFF;
+      font-family: Work Sans;
+      font-size: 29px;
+       font-weight: 700;
+
+}
+
+/* footer style css  */
+.section-footer{}
+.footer-info{}
+.footer-contact-form{}
